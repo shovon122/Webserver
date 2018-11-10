@@ -1,0 +1,14 @@
+ INFO: http server starting:8081:2752
+ERROR: system call:bind Errno=98 exiting pid=2752
+ INFO: SEND:index.html:6
+ INFO: SEND:scott.jpg:7
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:8
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:9
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:10
+ INFO: SEND:page2.html:11

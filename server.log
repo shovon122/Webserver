@@ -1,0 +1,34 @@
+ INFO: http server starting:9090:2170
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:4
+ INFO: SEND:page2.html:5
+ INFO: http server starting:8080:2690
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:4
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:5
+ INFO: SEND:page2.html:6
+ INFO: http server starting:8080:2512
+ INFO: SEND:index.html:1
+ INFO: SEND:Stuart.png:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:4
+ INFO: SEND:index.html:5
+ INFO: SEND:Stuart.png:6
